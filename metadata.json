@@ -1,0 +1,6 @@
+{
+  "name": "حساباتي",
+  "description": "تطبيق احترافي متجاوب لإدارة ديون ومدفوعات العملاء للمحلات التجارية والأنشطة مع تذكيرات واتساب وتقارير مالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
